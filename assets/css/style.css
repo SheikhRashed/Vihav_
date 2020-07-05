@@ -412,6 +412,12 @@ hr {
   padding: 29px 33px;
 }
 
+@media (max-width: 576px) {
+  .header-btn {
+    padding: 20px 15px;
+  }
+}
+
 .hero-btn {
   padding: 32px 41px;
 }
